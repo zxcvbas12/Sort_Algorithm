@@ -1,4 +1,4 @@
-# There are two integer arrays, A and B, both of length N. Let's define the function S as follows:
+## There are two integer arrays, A and B, both of length N. Let's define the function S as follows:
 
 S = A[0] × B[0] + ... + A[N-1] × B[N-1]
 
